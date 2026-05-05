@@ -1,0 +1,10 @@
+op1 = float(input("Introduce el primer número: "))
+op2 = float(input("Introduce el segundo número: "))
+
+print("La suma de operador1 y operador2 es:", op1 + op2)
+print("La resta de operador1 y operador2 es:", op1 - op2)
+print("La multiplicación de operador1 y operador2 es:", op1 * op2)
+print("La división de operador1 y operador2 es:", round(op1 / op2, 2))
+print("El exponente de operador1 y operador2 es:", op1 ** op2)
+print("La división entera de operador1 y operador2 es:", op1 // op2)
+print("El módulo (resto) de operador1 y operador2 es:", op1 % op2)
